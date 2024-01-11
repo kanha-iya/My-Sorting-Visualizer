@@ -1,1 +1,1 @@
-[*Behance Portfolio*](https://algorithms-sorting-visualizer.netlify.app/)
+[*Portfolio*](https://algorithms-sorting-visualizer.netlify.app/)
